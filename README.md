@@ -6,4 +6,4 @@ This repository contains the assignment statements and their respective submissi
 The following repositories contain full implementation of corresponding assignments:
 - Assignment 1: ```https://github.com/navreeetkaur/frequent-pattern-mining```
 - Assignment 2: ```https://github.com/navreeetkaur/clustering-algorithms```
-- Assignment 3(ongoing) : ```https://github.com/navreeetkaur/graph-classification``` (private)
+- Assignment 3: ```https://github.com/navreeetkaur/graph-classification```
